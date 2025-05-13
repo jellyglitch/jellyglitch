@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, I'm Jane 👋
 
 <!--
 **jellyglitch/jellyglitch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+AI Prompt QA | Learning Web Dev & QA
+Currently building projects using JavaScript, HTML/CSS, and exploring AI integrations.
+
+I enjoy front-end development and using my creativity to create unique user experiences. My goal is to build software that people enjoy using! 
+
+I'm still learning and building my skillset. In the process, I use this space to document my projects and journey.
